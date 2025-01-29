@@ -26,3 +26,4 @@ Voxless V1 was the first implementation of the product where it had its own bran
 by having a moving element of the design. The moving waveform helps users undestand better what is happening between the vocal separation and the non-vocal separation elements. 
 
 
+
